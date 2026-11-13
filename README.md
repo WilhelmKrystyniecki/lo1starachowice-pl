@@ -1,1 +1,1 @@
-# lo1starachowice-pl
+# lo1starachowice.pl
